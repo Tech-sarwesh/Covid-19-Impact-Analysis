@@ -1,6 +1,9 @@
 ![Tech-Sarwesh-27-09-2024](https://github.com/user-attachments/assets/275b8124-5977-4687-9c0c-170b885d446e)
 ![Covid-19-Impact-Analysis-28-09-2024 (1)](https://github.com/user-attachments/assets/85cf66c8-d844-4ec2-9a48-bf7930e4604d)
+----
 
+The COVID-19 Impact Analysis includes key metrics such as the total number of cases, active cases, recovered cases, and total deaths across various zones. It also emphasizes the importance of preventive measures like masks, sanitizers, and oxygen supply in managing the crisis. This comprehensive overview highlights how these factors contributed to understanding the pandemic's impact on public health and resource allocation.
+----
 ---
 ![SCR-1](https://github.com/user-attachments/assets/c1139cf8-27f9-42ec-8eed-99c9ab0a4d9a)
 ![SCR-2](https://github.com/user-attachments/assets/de9745d6-ed08-4d18-9c7e-74b46cfbba7c)
